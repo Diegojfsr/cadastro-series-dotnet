@@ -1,0 +1,16 @@
+E:\digitalinnovationone\Take Blip Fullstack Developer\Criando um APP simples de cadastro de séries em .NET\DIO.Series\bin\Debug\net5.0\DIO.Series.exe
+E:\digitalinnovationone\Take Blip Fullstack Developer\Criando um APP simples de cadastro de séries em .NET\DIO.Series\bin\Debug\net5.0\DIO.Series.deps.json
+E:\digitalinnovationone\Take Blip Fullstack Developer\Criando um APP simples de cadastro de séries em .NET\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+E:\digitalinnovationone\Take Blip Fullstack Developer\Criando um APP simples de cadastro de séries em .NET\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+E:\digitalinnovationone\Take Blip Fullstack Developer\Criando um APP simples de cadastro de séries em .NET\DIO.Series\bin\Debug\net5.0\DIO.Series.dll
+E:\digitalinnovationone\Take Blip Fullstack Developer\Criando um APP simples de cadastro de séries em .NET\DIO.Series\bin\Debug\net5.0\ref\DIO.Series.dll
+E:\digitalinnovationone\Take Blip Fullstack Developer\Criando um APP simples de cadastro de séries em .NET\DIO.Series\bin\Debug\net5.0\DIO.Series.pdb
+E:\digitalinnovationone\Take Blip Fullstack Developer\Criando um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.AssemblyReference.cache
+E:\digitalinnovationone\Take Blip Fullstack Developer\Criando um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+E:\digitalinnovationone\Take Blip Fullstack Developer\Criando um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+E:\digitalinnovationone\Take Blip Fullstack Developer\Criando um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+E:\digitalinnovationone\Take Blip Fullstack Developer\Criando um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+E:\digitalinnovationone\Take Blip Fullstack Developer\Criando um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net5.0\DIO.Series.dll
+E:\digitalinnovationone\Take Blip Fullstack Developer\Criando um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net5.0\ref\DIO.Series.dll
+E:\digitalinnovationone\Take Blip Fullstack Developer\Criando um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net5.0\DIO.Series.pdb
+E:\digitalinnovationone\Take Blip Fullstack Developer\Criando um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
